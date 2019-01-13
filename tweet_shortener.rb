@@ -36,5 +36,6 @@ end
 
 def selective_tweet_shortener(tweet)
 
-
+if tweet.length <= 140
+  
 end
